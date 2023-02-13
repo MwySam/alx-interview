@@ -45,4 +45,3 @@ if __name__ == '__main__':
         """ Keyboard interruption, print from the beginning """
         print_results(statusCodes, fileSize)
         raise
-    
